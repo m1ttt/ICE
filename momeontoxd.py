@@ -1,9 +1,9 @@
-def pene():
-    print("mike")
+def himalaya():
+    print("bienvenidos al himalaya xd")
 
 
 def main():
-    pene()
+    himalaya()
     print("hola mundo")
 
 if __name__ == "__main__":
