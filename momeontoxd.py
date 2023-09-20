@@ -1,5 +1,5 @@
 def pene():
-    print("pene")
+    print("mike")
 
 
 def main():
